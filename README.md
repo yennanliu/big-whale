@@ -115,4 +115,4 @@
  }
  ```
 # License
-The project is licensed under the [Apache 2 license](https://github.com/MeetYouDevs/big-whale/blob/master/LICENSE).
+The project is licensed under the [Apache 2 license](https://github.com/MeetYouDevs/big-whale/blob/1.2/LICENSE).
