@@ -7,7 +7,7 @@
 * Java 1.8+
 * Mysql 5.1.0+
 * 下载项目或git clone项目
-* 为解决 github README.md 图片无法正常加载的问题，请在hosts文件中加入相关域名解析规则，参考：[hosts](https://github.com/MeetYouDevs/big-whale/blob/master/doc/hosts)
+* 为解决 github README.md 图片无法正常加载的问题，请在hosts文件中加入相关域名解析规则，参考：[hosts](https://github.com/MeetYouDevs/big-whale/blob/1.1/doc/hosts)
 ## 2.安装
 * 创建数据库：big-whale
 * 运行数据库脚本：[big-whale.sql](https://github.com/MeetYouDevs/big-whale/blob/1.1/script/big-whale.sql)
@@ -103,4 +103,4 @@
  }
  ```
 # License
-The project is licensed under the [Apache 2 license](https://github.com/MeetYouDevs/big-whale/blob/master/LICENSE).
+The project is licensed under the [Apache 2 license](https://github.com/MeetYouDevs/big-whale/blob/1.1/LICENSE).
