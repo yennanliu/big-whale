@@ -1,4 +1,8 @@
 # Big Whale
+
+## Run
+- Java 1.8
+
 巨鲸任务调度平台为美柚大数据研发的分布式计算任务调度系统，提供Spark、Flink等批处理任务的DAG调度和流处理任务的运行管理和状态监控，并具有Yarn应用管理、重复应用检测、大内存应用检测等功能。
 服务基于Spring Boot 2.0开发，打包后即可运行。[[Github]](https://github.com/MeetYouDevs/big-whale)[[Gitee]](https://gitee.com/meetyoucrop/big-whale)
 

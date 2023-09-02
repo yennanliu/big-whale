@@ -10,8 +10,18 @@ server:
 spring:
   application:
     name: Big Whale
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/big_whale?characterEncoding=utf-8&autoReconnect=true&failOverReadOnly=false&useSSL=false
+    username: root
+    password:
+    tomcat:
+      test-on-borrow: true
+      test-while-idle: true
+      time-between-eviction-runs-millis: 3600000
+      validation-query: select 1
   profiles:
-    active: pro
+    active: dev # load application-dev.yml
   data:
     rest:
       returnBodyOnCreate: true
